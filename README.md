@@ -1,2 +1,4 @@
-# fast-server
-Fast way to get a Flask dev server up and running
+# Fast server
+Script to get a Flask server up and running in no time.
+
+Made in 5 minutes to save hours
